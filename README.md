@@ -4,10 +4,10 @@
 
 - <b>Active Directory Home Lab </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b> Python</b>
+- <b> Python-Lab</b>
   - [Update a File Through a Python Algorithm](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-- <b>SQL</b>
-  - [Apply Filters to SQL Queries](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>SQL-Lab</b>
+  - [Apply Filters to SQL Queries](https://github.com/denisedennisr/SQL-Lab)
  
 - <b>TCPDump</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
