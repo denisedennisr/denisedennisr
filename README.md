@@ -13,7 +13,7 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   
 - <b>Wireshark</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - Analyze Packet with Wireshark)](https://github.com/denisedennisr/Wireshark-lab)
 
 <h2>📺 Certifications </h2>
 
