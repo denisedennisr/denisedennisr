@@ -13,7 +13,7 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   
 - <b>Wireshark</b>
-  - [Analyze Packet with Wireshark)](https://github.com/denisedennisr/Wireshark-lab)
+  - [Analyze Packet with Wireshark](https://github.com/denisedennisr/Wireshark-lab)
 
 <h2>📺 Certifications </h2>
 
