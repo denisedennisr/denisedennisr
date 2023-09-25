@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Setting up home lab with Active Directory ](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b> Python-Lab</b>
-  - [Update a File Through a Python Algorithm](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Update a File Through a Python Algorithm](https://github.com/denisedennisr/python-lab) 
 - <b>SQL-Lab</b>
   - [Apply Filters to SQL Queries](https://github.com/denisedennisr/SQL-Lab)
  
@@ -17,7 +17,7 @@
 
 <h2>📺 Certifications </h2>
 
-- [Google Cybersecurity Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cybersecurity Certificate](https://coursera.org/share/331e9785943a65d37969aab2747f8cd2)
 
 
 <h2> 🤳 Connect with me:</h2>
