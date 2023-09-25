@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab </b>
-  - [Setting up home lab with Active Directory ](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b> Python-Lab</b>
   - [Update a File Through a Python Algorithm](https://github.com/denisedennisr/python-lab) 
 - <b>SQL-Lab</b>
