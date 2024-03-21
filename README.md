@@ -5,7 +5,7 @@
 - <b> Data Science Capstone Project </b>
   - [Identify Factors for Successful Rocket Launch](https://github.com/denisedennisr/IBM-DS-Capstone-) 
 
-- <b> Extraction Project </b>
+- <b> Extracting and Visualizing Stock Data </b>
   - [Extract Stock Data from TESLA](https://github.com/denisedennisr/extractingstockdata) 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
@@ -23,7 +23,10 @@
 
 <h2>📺 Certifications </h2>
 
-- [Google Cybersecurity Certificate](https://coursera.org/share/331e9785943a65d37969aab2747f8cd2)
+- [IBM Data Science and Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/7B2AZ2BQC86W)
+
+- [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CPPVDN2VJX9D)
+  
 
 
 <h2> 🤳 Connect with me:</h2>
