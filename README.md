@@ -6,7 +6,7 @@
   - [Identify Factors for Successful Rocket Launch](https://github.com/denisedennisr/IBM-DS-Capstone-) 
 
 - <b> Extraction Project </b>
-  - [IExtract Stock Data from TESLA](https://github.com/denisedennisr/extractingstockdata) 
+  - [Extract Stock Data from TESLA](https://github.com/denisedennisr/extractingstockdata) 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
