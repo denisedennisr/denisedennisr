@@ -1,6 +1,7 @@
 <h1>Hi, I'm Denise! <br/><a href="https://www.linkedin.com/in/denise-dennis-1a2a65136/">Cybersecurity Student</a>, <a href="https://www.amazon.com/author/denisedennis">Author</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+
 - <b> Data Science Capstone Project </b>
   - [Identify Factors for Successful Rocket Launch](https://github.com/denisedennisr/IBM-DS-Capstone-) 
 - <b> Python-Lab</b>
