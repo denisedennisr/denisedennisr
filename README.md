@@ -9,9 +9,13 @@
   - [Extract Stock Data from TESLA](https://github.com/denisedennisr/extractingstockdata) 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-  - [Malware Analysis Lab](https://github.com/denisedennisr/Malware-Analysis-Lab) 
+
+- <b> Malware Analysis Lab</b>
+  - [Create Malware and execute on Windows Virtual Machine](https://github.com/denisedennisr/Malware-Analysis-Lab) 
+  
 - <b> Python-Lab</b>
   - [Update a File Through a Python Algorithm](https://github.com/denisedennisr/python-lab) 
+
 - <b>SQL-Lab</b>
   - [Apply Filters to SQL Queries](https://github.com/denisedennisr/SQL-Lab)
  
