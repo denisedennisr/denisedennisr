@@ -1,5 +1,13 @@
 <h1>Hi, I'm Denise! <br/><a href="https://www.linkedin.com/in/denise-dennis-1a2a65136/">Computer Science Student</a>, <a href="https://www.amazon.com/author/denisedennis">Author</a></h1>
 
+
+- 🔭 I’m currently working on [https://github.com/denisedennisr/AzureResume)
+
+- 🌱 I’m currently learning **Azure**
+
+- ⚡ Fun fact **I can solve a rubiks cube in under 1 minute**
+
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Malware Analysis Lab</b>
