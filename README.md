@@ -1,7 +1,8 @@
 <h1>Hi, I'm Denise! <br/><a href="https://www.linkedin.com/in/denise-dennis-1a2a65136/">Computer Science Student</a>, <a href="https://www.amazon.com/author/denisedennis">Author</a></h1>
 
+<h2> Insights:</h2>
 
-- 🔭 I’m currently working on [https://github.com/denisedennisr/AzureResume)
+- 🔭 I’m currently working on [Azure Resume](https://github.com/denisedennisr/AzureResume)
 
 - 🌱 I’m currently learning **Azure**
 
