@@ -11,6 +11,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+
+- <b> Azure Resume</b>
+  - [Create a serverless resume website with Azure blob storage|CosmosDB](https://github.com/denisedennisr/AzureResume)
+  
 - <b> Malware Analysis Lab</b>
   - [Create Malware and execute on Windows Virtual Machine](https://github.com/denisedennisr/Malware-Analysis-Lab) 
   
