@@ -36,10 +36,11 @@
 
 <h2>📺 Certifications </h2>
 
-- [IBM Data Science and Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/7B2AZ2BQC86W)
+- [Microsoft AZ900 ](https://learn.microsoft.com/api/credentials/share/en-us/DeniseDennis-5769/56C16488AAA5554D?sharingId=264B50BDF8031C23)
 
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CPPVDN2VJX9D)
-  
+
+- [IBM Data Science and Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/7B2AZ2BQC86W)
 
 
 <h2> 🤳 Connect with me:</h2>
