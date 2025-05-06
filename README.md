@@ -1,4 +1,4 @@
-<h1>Hi, I'm Denise! <a href="https://www.amazon.com/author/denisedennis">Check out my books</a></h1>
+<h1>Hi, I'm Denise! <a href="https://www.amazon.com/author/denisedennis">Author</a></h1>
 
 <h2> Insights:</h2>
 
