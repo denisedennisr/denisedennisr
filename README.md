@@ -1,4 +1,4 @@
-<h1>Hi, I'm Denise! <br/><a href="https://www.linkedin.com/in/denise-dennis-1a2a65136/"> Computer Science </a>, <a href="https://www.amazon.com/author/denisedennis">Author</a></h1>
+<h1>Hi, I'm Denise! <br/><a href="https://www.linkedin.com/in/denise-dennis-1a2a65136/"> I do this for fun </a>, <a href="https://www.amazon.com/author/denisedennis">Author</a></h1>
 
 <h2> Insights:</h2>
 
