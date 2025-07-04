@@ -47,9 +47,6 @@
 - [IBM Data Science and Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/7B2AZ2BQC86W)
 
 
-<h2> 🤳 Connect with me:</h2>
-<img align="left" alt="denisedennisr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
-[linkedin](https://www.linkedin.com/in/denisedennisr)
   
 
