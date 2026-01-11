@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Azure**
 
-- ⚡ Fun fact **I can solve a rubiks cube in under 1 minute**
+- ⚡ Combining Health and Cybersecurity
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
