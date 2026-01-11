@@ -1,4 +1,4 @@
-<h1>Hi, I'm Denise! <a href="https://www.amazon.com/author/denisedennis">Author</a></h1>
+<h1>Hi, I'm Denise! Health Science + Cybersecurity 
 
 <h2> Insights:</h2>
 
