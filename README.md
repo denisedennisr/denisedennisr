@@ -1,4 +1,4 @@
-<h1>Hi, I'm Denise! Health Science + Cybersecurity 
+<h1>Hi, I'm Denise! Health Science + Data Science
 
 <h2> Insights:</h2>
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Azure**
 
-- ⚡ Combining Health and Cybersecurity
+- ⚡ Combining Health and Data Science
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
