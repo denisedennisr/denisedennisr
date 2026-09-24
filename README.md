@@ -1,4 +1,4 @@
-<h1>Hi, I'm Denise! Health Science + Data Science
+<h1>Hi, I'm Denise! Public Health + Data Science
 
 <h2> Insights:</h2>
 
