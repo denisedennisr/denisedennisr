@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Azure Resume](https://github.com/denisedennisr/AzureResume)
 
-- 🌱 Raise awareness to Environmental Health by purchasing my book here :  [A Clutter in the Gutter]([https://github.com/denisedennisr/AzureResume](https://www.amazon.com/dp/B0C6W4BDWZ?lv=shuf&channelId=500&plpRedirect=mhFallback))
+- 🌱 Raise awareness to Environmental Health by purchasing my book here :  [A Clutter in the Gutter](https://www.amazon.com/dp/B0C6W4BDWZ?lv=shuf&channelId=500&plpRedirect=mhFallback)
 
 - ⚡ Combining Health and Data Science
 
