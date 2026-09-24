@@ -4,11 +4,19 @@
 
 - 🔭 I’m currently working on [Azure Resume](https://github.com/denisedennisr/AzureResume)
 
-- 🌱 I’m currently learning **Azure**
+- 🌱 Raise awareness to Environmental Health by purchasing my book here :  [A Clutter in the Gutter]([https://github.com/denisedennisr/AzureResume](https://www.amazon.com/dp/B0C6W4BDWZ?lv=shuf&channelId=500&plpRedirect=mhFallback))
 
 - ⚡ Combining Health and Data Science
 
+<h2>👨‍💻 Data Science Projects:</h2>
 
+- <b> Data Science Capstone Project </b>
+  - [Identify Factors for Successful Rocket Launch](https://github.com/denisedennisr/IBM-DS-Capstone-) 
+
+- <b> Extracting and Visualizing Stock Data </b>
+  - [Extract Stock Data from TESLA](https://github.com/denisedennisr/extractingstockdata)
+
+    
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
@@ -30,14 +38,7 @@
 - <b>Wireshark</b>
   - [Analyze Packet with Wireshark](https://github.com/denisedennisr/Wireshark-lab)
 
- <h2>👨‍💻 Data Science Projects:</h2>
-
-- <b> Data Science Capstone Project </b>
-  - [Identify Factors for Successful Rocket Launch](https://github.com/denisedennisr/IBM-DS-Capstone-) 
-
-- <b> Extracting and Visualizing Stock Data </b>
-  - [Extract Stock Data from TESLA](https://github.com/denisedennisr/extractingstockdata) 
-
+ 
 <h2>📺 Certifications </h2>
 
 - [Microsoft AZ900 ](https://learn.microsoft.com/api/credentials/share/en-us/DeniseDennis-5769/56C16488AAA5554D?sharingId=264B50BDF8031C23)
